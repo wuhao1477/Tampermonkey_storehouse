@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @require		http://libs.baidu.com/jquery/2.0.0/jquery.min.js
-// @author       You
+// @author      https://github.com/wuhao1477
 // @match        https://v.qq.com/x/cover/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=qq.com
 // @grant        none
